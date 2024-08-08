@@ -1,0 +1,2 @@
+source ../tech/magic/.magicrc
+addpath ../design/CIC_DIFF_PAIR_SKY130NM
